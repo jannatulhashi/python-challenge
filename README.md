@@ -22,6 +22,7 @@ In this challenge, I will use a financial dataset called budget_data.csv which h
 - The changes in "Profit/Losses" over the entire period, and then the average of those changes
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in profits (date and amount) over the entire period
+
 My analysis should align with the following results:
 
 ![](Images/Py_Bank.PNG)
